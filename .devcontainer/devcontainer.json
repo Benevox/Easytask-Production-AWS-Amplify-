@@ -22,5 +22,13 @@
       "onAutoForward": "openPreview"
     }
   },
+  "ghcr.io/devcontainers-contrib/features/amplify-cli:2": {
+  },
+    "ghcr.io/devcontainers-contrib/features/aws-cdk:2": {
+    },
+  "ghcr.io/customink/codespaces-features/sam-cli:1": {
+  },   
+    
   "forwardPorts": [3000]
 }
+
