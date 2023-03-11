@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "paths": {
+    "/jobs": {
+      "name": "/jobs",
+      "lambdaFunction": "easytaskproductionaw14280c99",
+      "permissions": {
+        "setting": "open"
+      }
+    }
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-easytaskproductionaw-dev-154755-authRole",
+      "UnauthRoleArn": "arn:aws:iam::883478303495:role/amplify-easytaskproductionaw-dev-154755-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::883478303495:role/amplify-easytaskproductionaw-dev-154755-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-easytaskproductionaw-dev-154755-deployment",
+      "UnauthRoleName": "amplify-easytaskproductionaw-dev-154755-unauthRole",
+      "StackName": "amplify-easytaskproductionaw-dev-154755",
+      "StackId": "arn:aws:cloudformation:us-east-1:883478303495:stack/amplify-easytaskproductionaw-dev-154755/1842f3b0-c024-11ed-b5ea-0ec1db5ffd0f",
+      "AmplifyAppId": "d2teg8n56ib9fa"
+    }
+  },
+  "eztaskprod": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-easytaskproductionaw-eztaskprod-155509-authRole",
+      "UnauthRoleArn": "arn:aws:iam::883478303495:role/amplify-easytaskproductionaw-eztaskprod-155509-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::883478303495:role/amplify-easytaskproductionaw-eztaskprod-155509-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-easytaskproductionaw-eztaskprod-155509-deployment",
+      "UnauthRoleName": "amplify-easytaskproductionaw-eztaskprod-155509-unauthRole",
+      "StackName": "amplify-easytaskproductionaw-eztaskprod-155509",
+      "StackId": "arn:aws:cloudformation:us-east-1:883478303495:stack/amplify-easytaskproductionaw-eztaskprod-155509/1a5e3d20-c025-11ed-b8b6-0ebee7838879",
+      "AmplifyAppId": "d2teg8n56ib9fa"
+    },
+    "categories": {
+      "function": {
+        "easytaskproductionaw14280c99": {
+          "deploymentBucketName": "amplify-easytaskproductionaw-eztaskprod-155509-deployment",
+          "s3Key": "amplify-builds/easytaskproductionaw14280c99-3171616d4f53504d6b78-build.zip"
+        }
+      },
+      "auth": {
+        "easytaskproductionaw950a4c4a": {}
+      },
+      "api": {
+        "eztaskapi": {}
+      }
+    }
+  }
+}
